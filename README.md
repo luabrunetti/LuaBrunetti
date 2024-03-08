@@ -1,5 +1,6 @@
 # Primeiro Projeto
 Bem Vindo!
+Este é um projeto em construção, aprendendo a trabalhar no Github!
 
 ### 📋 Pré-requisitos
 - Git Add: Move as alterações do diretório de trabalho para a área de staging.
